@@ -1,4 +1,3 @@
-Student Grade management System
 # Student Grade Management System
 
 ## Overview
